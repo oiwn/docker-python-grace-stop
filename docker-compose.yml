@@ -1,0 +1,5 @@
+version: '3'
+services:
+  grace_stop:
+    container_name: grace_stop
+    build: .
